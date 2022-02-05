@@ -45,8 +45,8 @@
 
 ### **My projects:**
 
-* [First Project](/itstep/Task_2/index.html)
-* [Oneflow Page]()
+* [First Project](https://vitek2711.github.io/firstproject/)
+* [Oneflow Page](https://vitek2711.github.io/oneflow/)
 
 ***
 >I will be glad to study modern web development technologies and join a team of creative and energetic people!
