@@ -11,13 +11,12 @@
 |vk.com:| [VK](https://vk.com/viktor_vitek_romanowski) |
 |Home adress:|Belarus,Mogilev|
 
+![image](images/aboutme.png)
 
-## **Education:**
-Higher pedagogical education
-
-## **Work:**
-Teacher
-
+|**Education**|**Work**|
+|:-----|:-----|
+|Higher pedagogical education|Teacher|
+***
 ## **My goals:**
 |**1**|**2**|**3**|**4**|**5**|
 |:-----|:-----|:-----|:-----|:-----|
