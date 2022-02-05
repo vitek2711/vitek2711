@@ -1,4 +1,4 @@
-<img align="right" alt="my photo" src="https://github.com/vitek2711/vitek2711/blob/main/images/vitek.jpg?raw=true" width="260">
+<img align="right" alt="my photo" src="https://github.com/vitek2711/vitek2711/blob/main/images/vitek.jpg?raw=true" width="350">
 
 # **VIKTAR RAMANOUSKI**
 |Contacts|Data|
