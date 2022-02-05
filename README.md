@@ -3,7 +3,6 @@
 # **VIKTAR RAMANOUSKI**
 |Contacts|Data|
 |-----:|:-----|
-|Age:|36|
 |MTS:| +375292409180|
 |A1 (Telegram, Viber):| +375293933111|
 |GitHub:|[GitHub](https://github.com/vitek2711)|
@@ -13,12 +12,12 @@
 
 ![image](images/aboutme.png)
 
-|**Education**|**Work**|
-|:-----|:-----|
-|Higher pedagogical education|Teacher|
+|**Education**|**Work**|**Age**|**Language**|
+|:-----|:-----|:-----|:-----|
+|Higher pedagogical education|Teacher|36|English (A1), German (B1), Russian (native), Belorussian (native)|
 ***
 ## **My goals:**
-|**1**|**2**|**3**|**4**|**5**|
+|**Git**|**Angular**|**JavaScript**|**NodeJS**|**React**|
 |:-----|:-----|:-----|:-----|:-----|
 |<img alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="80">|<img alt="angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width="80">|<img alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="80">|<img alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="80">|<img alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="80">
 
@@ -26,21 +25,22 @@
 ***
 ## **My skills:**
 
-|**1**|**2**|**3**|**4**|**5**|
+|**HTML5**|**CSS3**|**Git**|**Sass**|**Markdown**|
 |:-----|:-----|:-----|:-----|:-----|
 |<img alt="html5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="80">|<img alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="80">|<img alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="80">|<img alt="sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="80">|<img alt="markdown" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" width="80">|
 
 ***
 ### **My strengths:**
-* work ethic;
-* communication;
-* team work;
-* self-growth
+* Work Ethic;
+* Communication;
+* Team Work;
+* Self-Growth.
 
 ***
 
 ### **My projects:**
 
+***
 >I will be glad to study modern web development technologies and join a team of creative and energetic people!
 
 
