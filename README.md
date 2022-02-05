@@ -1,4 +1,4 @@
-<img align="right" alt="my photo" src="https://github.com/vitek2711/vitek2711/blob/main/vitek2711.jpg?raw=true" width="320">
+<img align="right" alt="my photo" src="https://github.com/vitek2711/vitek2711/blob/main/images/vitek.jpg?raw=true" width="260">
 
 # **VIKTAR RAMANOUSKI**
 |Contacts|Data|
@@ -15,6 +15,7 @@
 |**Education**|**Work**|**Age**|**Language**|
 |:-----|:-----|:-----|:-----|
 |Higher pedagogical education|Teacher|36|English (A1), German (B1), Russian (native), Belorussian (native)|
+
 ***
 ## **My goals:**
 |**Git**|**Angular**|**JavaScript**|**React**|
