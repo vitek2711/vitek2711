@@ -52,7 +52,7 @@
 <img align="left" alt="my photo" src="https://github.com/vitek2711/vitek2711/blob/main/images/1f4cc.png?raw=true" width="25">
 
 ***
->I will be glad to study modern web development technologies and join a team of creative and energetic people!
+I will be glad to study modern web development technologies and join a team of creative and energetic people!
 
 
 
