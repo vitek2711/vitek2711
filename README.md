@@ -48,6 +48,7 @@
 * [First Project](https://vitek2711.github.io/firstproject/)
 * [Oneflow Page](https://vitek2711.github.io/oneflow/)
 * [Calculator](https://vitek2711.github.io/Calculator/)
+* [Weather](https://vitek2711.github.io/weather/)
 
 ***
 >I will be glad to study modern web development technologies and join a team of creative and energetic people!
