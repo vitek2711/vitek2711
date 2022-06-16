@@ -3,7 +3,6 @@
 # **VIKTAR RAMANOUSKI**
 |Contacts|Data|
 |-----:|:-----|
-|MTS:| +375292409180|
 |A1 (WhatsApp, Viber):| +375293933111|
 |GitHub:|[GitHub](https://github.com/vitek2711)|
 |E-mail:| viktor2711@mail.ru|
