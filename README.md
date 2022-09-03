@@ -19,11 +19,12 @@
 
 ### **My projects:**
 
-* [First Project](https://vitek2711.github.io/firstproject/)
-* [Oneflow Page](https://vitek2711.github.io/oneflow/)
-* [Calculator](https://vitek2711.github.io/Calculator/)
-* [Weather](https://vitek2711.github.io/weather/)
 * [Momentum](https://vitek2711.github.io/Momentum/)
+* [Weather](https://vitek2711.github.io/weather/)
+* [Calculator](https://vitek2711.github.io/Calculator/)
+* [Oneflow Page](https://vitek2711.github.io/oneflow/)
+* [First Project](https://vitek2711.github.io/firstproject/)
+
 
 ***
 ## **My skills:**
