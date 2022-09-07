@@ -35,7 +35,7 @@
 
 ***
 ## **I also have:**
-|**FIGMA**|**Corel Drow**|
+|**FIGMA**|**Corel Drфw**|
 |:-----|:-----|
 |<img alt="html5" src="https://github.com/vitek2711/vitek2711/blob/main/images/213px-Figma-1-logo.png?raw=true" width="80">|<img alt="css" src="https://github.com/vitek2711/vitek2711/blob/main/images/corelDrow.jpg?raw=true" width="80">|
 
