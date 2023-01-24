@@ -13,7 +13,7 @@
 
 |**Education**|**Work**|**Age**|**Language**|
 |:-----|:-----|:-----|:-----|
-|Higher pedagogical education|Teacher|36|English (A1), German (B1), Russian (native), Belorussian (native)|
+|Higher pedagogical education|Teacher|37|English (A1), German (B1), Russian (native), Belorussian (native)|
 
 ***
 
