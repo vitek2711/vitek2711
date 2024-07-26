@@ -18,7 +18,7 @@
 ***
 
 ### **My projects:**
-
+* [Lotto](https://vitek2711.github.io/lotto/)
 * [Momentum](https://vitek2711.github.io/Momentum/)
 * [Weather](https://vitek2711.github.io/weather/)
 * [Calculator](https://vitek2711.github.io/Calculator/)
